@@ -1,0 +1,31 @@
+ table .action{
+    width: auto;
+    text-align: right;
+ }
+ table.content{
+    width: 100%;
+ }
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+  }
+  
+  thead,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 15px;
+  }
+  
+  thead {
+    background-color: #7775fa;
+  }
+  
+  td {
+    background-color: #6ac6e2;
+
+  }
+  
+  
